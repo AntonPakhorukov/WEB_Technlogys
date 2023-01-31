@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Камил видит руками</title>
+        <author>Томаш Малковски</author>
+        <page>146</page>
+        <create_date>2019</create_date>
+        <price>863</price>
+    </book>
+    <book>
+        <title>Камил видит руками</title>
+        <author>Томаш Малковски</author>
+        <page>146</page>
+        <create_date>2019</create_date>
+        <price>863</price>
+    </book>
+    <book>
+        <title>Камил видит руками</title>
+        <author>Томаш Малковски</author>
+        <page>146</page>
+        <create_date>2019</create_date>
+        <price>863</price>
+    </book>
+</books>
